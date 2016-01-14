@@ -28,6 +28,7 @@ namespace Stacks
 
 		}
 
+		//prints the stack objects one at a time
 		public static void PrintStack(IEnumerable myCollection) {
 			foreach (Object obj in myCollection) {
 				Console.WriteLine(obj);
