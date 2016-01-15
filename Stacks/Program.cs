@@ -16,8 +16,9 @@ namespace Stacks
 			Stack myStack = new Stack();
 
 			//add some objects into my stack
-			myStack.Push("Hello");
+			myStack.Push("!");
 			myStack.Push ("World");
+			myStack.Push ("Hello, ");
 
 			//Write some things to the console about the stack
 			Console.WriteLine("Stack Demo");
@@ -26,13 +27,14 @@ namespace Stacks
 			//function to print the stack by passing the stack into it
 			PrintStack (myStack);
 
-		}
+		}//end main
 
 		//prints the stack objects one at a time
 		public static void PrintStack(IEnumerable myCollection) {
 			foreach (Object obj in myCollection) {
-				Console.WriteLine(obj);
+				Console.Write(obj);
 			}
-		}
-	}
+		}//end PrintStack
+
+	}//end MainClass
 }
