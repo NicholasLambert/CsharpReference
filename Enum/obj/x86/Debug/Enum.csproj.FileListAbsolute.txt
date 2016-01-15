@@ -1,0 +1,5 @@
+C:\Users\nicholaslambert\Documents\GitHub\Enum\bin\Debug\Enum.exe
+C:\Users\nicholaslambert\Documents\GitHub\Enum\bin\Debug\Enum.pdb
+C:\Users\nicholaslambert\Documents\GitHub\Enum\obj\x86\Debug\Enum.csprojResolveAssemblyReference.cache
+C:\Users\nicholaslambert\Documents\GitHub\Enum\obj\x86\Debug\Enum.exe
+C:\Users\nicholaslambert\Documents\GitHub\Enum\obj\x86\Debug\Enum.pdb

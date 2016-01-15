@@ -1,0 +1,4 @@
+C:\Users\nicholaslambert\Documents\GitHub\Structs\bin\Debug\Structs.exe
+C:\Users\nicholaslambert\Documents\GitHub\Structs\bin\Debug\Structs.pdb
+C:\Users\nicholaslambert\Documents\GitHub\Structs\obj\x86\Debug\Structs.exe
+C:\Users\nicholaslambert\Documents\GitHub\Structs\obj\x86\Debug\Structs.pdb

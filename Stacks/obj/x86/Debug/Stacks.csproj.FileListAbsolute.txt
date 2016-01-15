@@ -1,0 +1,5 @@
+C:\Users\nicholaslambert\Documents\GitHub\Stacks\bin\Debug\Stacks.exe
+C:\Users\nicholaslambert\Documents\GitHub\Stacks\bin\Debug\Stacks.pdb
+C:\Users\nicholaslambert\Documents\GitHub\Stacks\obj\x86\Debug\Stacks.csprojResolveAssemblyReference.cache
+C:\Users\nicholaslambert\Documents\GitHub\Stacks\obj\x86\Debug\Stacks.exe
+C:\Users\nicholaslambert\Documents\GitHub\Stacks\obj\x86\Debug\Stacks.pdb
