@@ -9,7 +9,7 @@ namespace Enum
 	class MainClass
 	{
 		//declare enum and add values
-		enum Months { Jan, Feb, March, April, May, June, July, August };
+		enum Months { Jan, Feb, March, April, May, June, July, August, September, October, November, December };
 
 		public static void Main (string[] args)
 		{
